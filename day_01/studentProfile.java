@@ -36,12 +36,7 @@ public class studentProfile {
 
         System.out.println("Student_average of four subjects  :" + average);
 
-        // changing the name 
-        name = "shivangi";
-        System.out.println("change name of student " + name );
-        // change the age 
-        age = 32;
-        System.out.println("change the age of the student " + age);
+        
 
     }
     
